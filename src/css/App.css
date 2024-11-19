@@ -1,0 +1,33 @@
+.sidebar{
+    width: 250px;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    
+
+}
+
+.sidebar .logo{
+    padding: 20px 30px;
+}
+.sidebar .logo img{
+    height: 50px;
+}
+.sidebar .nav{
+    padding: 50px 25px;
+}
+.sidebar .nav li{}
+.sidebar .nav li a{
+    align-items: center;
+    line-height: 0px 30px;
+}
+.sidebar .nav li a .ico{
+    margin-right: 10px;
+}
+.sidebar .nav li a .lbl{}
+
+.sidebar .nav li a.on{
+    border-left: 2px #FF0066 solid;
+    color: #FF0066;
+    line-height: 1;
+}
