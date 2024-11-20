@@ -11,17 +11,31 @@ ul, ol{
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
+    margin: 0px;
+    padding: 0px;
 }
 
 .flex{display: flex;}
+.aic{align-items: center;}
+.jic{justify-content: center;}
 .fixed{position: fixed;}
+.abs{position: absolute;}
+.rel{position: relative;}
 
 .noul{text-decoration: none;}
 
 .bl{display: block;}
 
+.cfff{color: #fff;}
 .c333{color: #333;}
+.c777{color: #777;}
 
+
+.s13{font-size: 13px;}
 .s15{font-size: 15px;}
 .s20{font-size: 20px;}
 .s24{font-size: 24px;}
+
+.fontb{
+    font-weight: bold;
+}
